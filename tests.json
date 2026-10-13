@@ -1,0 +1,6 @@
+{
+    "test_case_1": {
+        "description": "Описание теста",
+        "expected_result": "ожидаемый результат"
+    }
+}
