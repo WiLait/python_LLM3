@@ -1,0 +1,4 @@
+# Add your project dependencies here
+# Example:
+flask==2.0.1
+dbclient==1.5

@@ -1,0 +1,12 @@
+# Byte code
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+oscar_build/
+sdist/
+bdist_wheel/
+*.whl
